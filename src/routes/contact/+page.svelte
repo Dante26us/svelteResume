@@ -49,6 +49,9 @@
 </div>
 
 <style>
+  .contact{
+    color: var(--color-text);
+  }
   h1 {
     margin-top: 2em;
   }
