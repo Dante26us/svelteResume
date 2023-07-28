@@ -50,12 +50,12 @@
 
 <style>
   h1 {
-    font-weight: bolder;
+    margin-top: 2em;
   }
   h2 {
     text-align: center;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.6em;
   }
   .socials {
     display: flex;
@@ -70,6 +70,12 @@
     margin-inline: 20px;
     border-radius: 12px;
     background-color: rgb(255, 255, 255);
+    
+  @media only screen and (max-width: 768px) {
+    width: 2em;
+    height: 2em;
+    margin-inline: 10px;
+  }
   }
   .hidden{
     opacity: 0;

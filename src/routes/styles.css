@@ -58,8 +58,9 @@ h2 {
 	font-size: 1rem;
 }
 .aboutShow{
+    visibility: visible!important;
 	opacity: 1 !important;
-	transform: translate(0%) !important;
+	transform: translateY(0%) !important;
   }
 pre {
 	font-size: 16px;

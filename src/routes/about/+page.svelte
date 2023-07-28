@@ -184,7 +184,7 @@
   .aboutInfo {
     transition: all 1s;
     opacity: 0;
-    transform: translateX(100%);
+    transform: translateY(100%);
   }
 
   .about2 {
