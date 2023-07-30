@@ -27,7 +27,6 @@
 
     const observer2 = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
-        console.log(entry.isIntersecting);
         if (entry.isIntersecting) {
           entry.target.classList.add("aboutShow");
         } else {

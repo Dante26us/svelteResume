@@ -7,7 +7,7 @@
   import user from "../lib/images/work.png";
   import About from "./about/+page.svelte";
   import Contact from "./contact/+page.svelte";
-  import Projects from "./projects/+page.svelte";
+  import Project from "./project/+page.svelte";
   import { onMount } from "svelte";
 
   onMount(() => {
@@ -57,7 +57,7 @@
   <About />
 </section>
 <section id="projects" class="hidden">
-  <Projects />
+  <Project />
 </section>
 <section id="contact" class="hidden">
   <Contact />
