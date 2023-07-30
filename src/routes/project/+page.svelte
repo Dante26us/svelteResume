@@ -25,7 +25,7 @@
         description:
           "THe current website which was made with the help of svelte and svelte kit.",
         githublink: "https://github.com/Dante26us/svelteResume",
-        sitelink: "https://www.bhartiaxa.com/customer-service-login/",
+        sitelink: "https://jocular-bombolone-5c483a.netlify.app/",
         imglink: svelteResume,
         technology: "Svelte, Svelte Kit, CSS",
         imgalt: "svelteResume",
